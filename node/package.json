@@ -1,0 +1,14 @@
+{
+  "name": "iota_faucet",
+  "version": "1.0.0",
+  "description": "Simple node application to make a call to the shimmer faucet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Pichl",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}

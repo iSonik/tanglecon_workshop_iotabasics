@@ -1,0 +1,12 @@
+[package]
+name = "create_wallet"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.12.0", features = ["full"] }
+iota-wallet = { git = "https://github.com/iotaledger/wallet.rs", branch = "production" }
+iota-client = { git = "https://github.com/iotaledger/iota.rs", branch = "production" }
+bip39 = "1.0.0"
