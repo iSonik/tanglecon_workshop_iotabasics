@@ -17,6 +17,10 @@ Node.js playground: https://stackblitz.com/edit/node-99aw1w
     }
     faucetRequest().catch((err) => console.log(err));
 
+1) Click on the console and install axios: npm i axios
+2) To start the application, just run the command node index.js
+
+
 
 ## Links:
         
