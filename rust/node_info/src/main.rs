@@ -27,6 +27,7 @@ let node_url: String = "https://api.lb-0.h.chrysalis-devnet.iota.cafe".to_string
     let mut content: String = "Messages per second: ".to_string();
     content.push_str(&messages_per_second);
 
+    // Send payload with index and data to the tangle
         let message = iota
         .message()
         .with_index(index)
