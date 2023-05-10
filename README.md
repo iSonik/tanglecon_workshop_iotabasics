@@ -28,7 +28,9 @@ faucetRequest().catch((err) => console.log(err));
 
 
 ## Links:
-        
+## Image upload
+[Pasteboard](https://pasteboard.co/)
+
 ### Explorer
 
 [Testnet Explorer](https://explorer.iota.org/testnet)
