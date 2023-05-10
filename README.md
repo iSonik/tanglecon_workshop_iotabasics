@@ -1,7 +1,10 @@
 # TangleCon 2023: IOTA for beginners
+## Downloading and installing the Firefly wallet for shimmer:
+
+[Firefly Wallet](https://firefly.iota.org/) - Only download the wallet from the official website!
 
 ## Coding the faucet:
-Node.js playground: https://stackblitz.com/edit/node-99aw1w
+[Node.js playground](https://stackblitz.com/edit/node-99aw1w)
 ```javascripT
 const axios = require('axios');
 async function faucetRequest() {
