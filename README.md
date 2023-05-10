@@ -35,6 +35,8 @@ faucetRequest().catch((err) => console.log(err));
 
 [Testnet Explorer](https://explorer.iota.org/testnet)
 
+[Testnet Visualizer](https://explorer.iota.org/testnet/visualizer/)
+
 [Mainnet Explorer](https://explorer.iota.org/mainnet)
 
 [IOTA 2.0 Visualizer](https://v2.iota.org/visualizer)
