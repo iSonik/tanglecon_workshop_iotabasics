@@ -57,7 +57,7 @@ faucetRequest().catch((err) => console.log(err));
 
        
 ### IOTA Wiki:
-[IOTA Wiki](https://wiki.iota.org/shimmer/develop/endpoints/testnet/)
+[IOTA Wiki](https://wiki.iota.org/)
 
 [Shimmer Wiki](https://wiki.iota.org/shimmer)
 
