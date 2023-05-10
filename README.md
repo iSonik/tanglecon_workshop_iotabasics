@@ -16,7 +16,7 @@ async function faucetRequest() {
       const response = await axios.post(faucetEndpoint, { address });
       console.log(response.data);
     } catch (error) {
-      console.log(error.message.data);
+      console.log(error.message);
     }
     
 }
