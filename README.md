@@ -28,7 +28,7 @@ faucetRequest().catch((err) => console.log(err));
 
 
 ## Links:
-## Image upload
+### Image upload
 [Pasteboard](https://pasteboard.co/)
 
 ### Explorer
